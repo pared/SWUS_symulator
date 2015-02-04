@@ -1,0 +1,9 @@
+EOS 100000
+NOF 10
+C 500000
+QS 1000
+PR 200000
+time ON 100
+time OFF 100
+NOS 100
+packages in cycle 20
